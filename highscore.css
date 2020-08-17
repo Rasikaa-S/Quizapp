@@ -1,0 +1,25 @@
+#container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+#highscorelist{
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+.high-score{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 40px;
+    
+}
+#finalscore{
+  font-size: 3rem;
+}
+.btn{
+    margin-left: 4rem;
+    padding: 10px;
+    font-size: 20px;
+}
